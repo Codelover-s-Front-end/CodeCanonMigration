@@ -1,0 +1,16 @@
+.carousel-indicator {
+    /* Add your custom styles here */
+    /* background-color: #ccc; */
+    width: 3px !important;
+    height: 3px !important;
+   }
+   
+.carousel-indicator.active {
+/* Styles for the active indicator */
+/* background-color: #000; */
+}
+
+.carousel-control-next, .carousel-control-prev {
+display: none !important;
+}
+
