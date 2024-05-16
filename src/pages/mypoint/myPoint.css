@@ -1,0 +1,9 @@
+.point_container::after .point_container::before {
+    content: "";
+    position: absolute;
+    top: 110px;
+    left: 0;
+    width: 100%;
+    height: 5px;
+    background: var(--secondary-light);
+}

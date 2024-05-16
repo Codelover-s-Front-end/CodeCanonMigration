@@ -1,0 +1,457 @@
+{
+  "matchDatas" : [ 
+    {
+      "no" : 1,
+      "league": "Premier League",
+      "title": "LIVE",
+      "left_team" : {
+        "team_Id": 4,
+        "team_logo": "/images/team_logo/team_4.png",
+        "team_name": "BLAZZER BULLS",
+        "team_shortname" : "BLB",
+        "team_color" : "(138,28,31,0.8690826672465861)"
+      },
+      "right_team": {
+        "team_Id": 1,
+        "team_logo": "/images/team_logo/team_1.png",
+        "team_name": "POWER PANDAS",
+        "team_shortname" : "PPD",
+        "team_color" : "(72,140,23,1)"
+      }
+    },
+    {
+      "no" : 2,
+      "league": "Premier League",
+      "title": "4h 23min",
+      "left_team" : {
+        "team_Id": 2,
+        "team_logo": "/images/team_logo/team_2.png",
+        "team_name": "GREAT GORILLAS",
+        "team_shortname" : "GGS",
+        "team_color" : "(131,23,71,1)"
+      },
+      "right_team": {
+        "team_Id": 3,
+        "team_logo": "/images/team_logo/team_3.png",
+        "team_name": "LION UNITED",
+        "team_shortname" : "LUT",
+        "team_color" : "(136, 118, 18, 1)"
+      }
+    },
+    {
+      "no" : 3,
+      "league": "Premier League",
+      "title": "2h 29m",
+      "left_team" : {
+        "team_Id": 6,
+        "team_logo": "/images/team_logo/team_6.png",
+        "team_name": "COBRA GUADIANS",
+        "team_shortname" : "CGA",
+        "team_color" : "(29, 97, 129, 1)"
+      },
+      "right_team": {
+        "team_Id": 7,
+        "team_logo": "/images/team_logo/team_7.png",
+        "team_name": "MAXICAN TIGERS",
+        "team_shortname" : "MXT",
+        "team_color" : "(137, 95, 18, 1)"
+      }
+    },
+    {
+      "no" : 4,
+      "league": "Premier League",
+      "title": "LIVE",
+      "left_team" : {
+        "team_Id": 8,
+        "team_logo": "/images/team_logo/team_8.png",
+        "team_name": "WOLVES UNITED ",
+        "team_shortname" : "WLU",
+        "team_color" : "(29, 97, 129, 1)"
+      },
+      "right_team": {
+        "team_Id": 5,
+        "team_logo": "/images/team_logo/team_5.png",
+        "team_name": "SHARK CHAMPIONS",
+        "team_shortname" : "SKC",
+        "team_color" : "(31, 97, 120, 1)"
+      }
+    },
+    {
+      "no" : 4,
+      "league": "Maxican League",
+      "title": "3h 29m",
+      "left_team" : {
+        "team_Id": 4,
+        "team_logo": "/images/team_logo/team_4.png",
+        "team_name": "BLAZZER BULLS",
+        "team_shortname" : "BLB",
+        "team_color" : "(138,28,31,0.8690826672465861)"
+      },
+      "right_team": {
+        "team_Id": 3,
+        "team_logo": "/images/team_logo/team_3.png",
+        "team_name": "LION UNITED",
+        "team_shortname" : "LUT",
+        "team_color" : "(136,118,18,1)"
+      }
+    },
+    {
+      "no" : 5,
+      "league": "Maxican League",
+      "title": "LIVE",
+      "left_team" : {
+        "team_Id": 2,
+        "team_logo": "/images/team_logo/team_2.png",
+        "team_name": "GREAT GORILLAS",
+        "team_shortname" : "GGS",
+        "team_color" : "(131,23,71,1)"
+      },
+      "right_team": {
+        "team_Id": 1,
+        "team_logo": "/images/team_logo/team_1.png",
+        "team_name": "POWER PANDAS",
+        "team_shortname" : "PPD",
+        "team_color" : "(72,140,23,1)"
+      }
+    },
+    {
+      "no" : 6,
+      "league": "Maxican League",
+      "title": "LIVE",
+      "left_team" : {
+        "team_Id": 7,
+        "team_logo": "/images/team_logo/team_7.png",
+        "team_name": "BLAZZER BULLS",
+        "team_shortname" : "BLB",
+        "team_color" : "(138,28,31,0.8690826672465861)"
+      },
+      "right_team": {
+        "team_Id": 6,
+        "team_logo": "/images/team_logo/team_6.png",
+        "team_name": "COBRA GUADIANS",
+        "team_shortname" : "CGA",
+        "team_color" : "(29, 97, 129, 1)"
+      }
+    },
+    {
+      "no" : 7,
+      "league": "Maxican League",
+      "title": "3h 23m",
+      "left_team" : {
+        "team_Id": 5,
+        "team_logo": "/images/team_logo/team_5.png",
+        "team_name": "SHARK CHAMPIONS",
+        "team_shortname" : "SKC",
+        "team_color" : "(31, 97, 120, 1)"
+      },
+      "right_team": {
+        "team_Id": 2,
+        "team_logo": "/images/team_logo/team_2.png",
+        "team_name": "GREAT GORILLAS",
+        "team_shortname" : "GGS",
+        "team_color" : "(131, 23, 71, 1)"
+      }
+    }  
+  ],
+"leaderboard" : [
+  {
+    "no": 0,
+    "img": "./images/users/user1.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 1,
+    "img": "./images/users/user2.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 2,
+    "img": "./images/users/user3.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 3,
+    "img": "./images/users/user4.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 4,
+    "img": "./images/users/user5.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 5,
+    "img": "./images/users/user6.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 6,
+    "img": "./images/users/user7.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 7,
+    "img": "./images/users/user8.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 8,
+    "img": "./images/users/user2.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 9,
+    "img": "./images/users/user1.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 10,
+    "img": "./images/users/user3.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 11,
+    "img": "./images/users/user4.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  }
+],
+"faqs":[
+  {
+    "id" : 0,
+    "title": "How to Play?",
+    "body" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "id" : 1,
+    "title": "How to add money?",
+    "body" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "id" : 2,
+    "title": "How to select player?",
+    "body" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "id" : 3,
+    "title": "How to change profile picture?",
+    "body" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "id" : 4,
+    "title": "How to send money to bank?",
+    "body" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "id" : 5,
+    "title": "How to Shop?",
+    "body" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "id" : 6,
+    "title": "How to change language?",
+    "body" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  }
+],
+  "maxcontests" : [
+    {
+      "id":0,
+      "name": "prize pool",
+      "budget": "$500,000",
+      "status":"60% Winners | 1st $50,000",
+      "progress": 80,
+      "entity": "Multiple Entity",
+      "entityBudget": "$20",
+      "totalSpots": "10,000Spots",
+      "leftSpots": "3875Spots left"
+    },
+    {
+      "id":1,
+      "name": "prize pool",
+      "budget": "$500,000",
+      "status":"60% Winners | 1st $50,000",
+      "progress": 57,
+      "entity": "Multiple Entity",
+      "entityBudget": "$20",
+      "totalSpots": "10,000Spots",
+      "leftSpots": "3875Spots left"
+    },
+    {
+      "id":2,
+      "name": "prize pool",
+      "budget": "$50,000",
+      "status":"60% Winners | 1st $50,000",
+      "progress": 76,
+      "entity": "Multiple Entity",
+      "entityBudget": "$20",
+      "totalSpots": "10,000Spots",
+      "leftSpots": "3875Spots left"
+    }
+  ]
+  ,"headContests" : [
+    {
+      "id":0,
+      "name": "prize pool",
+      "budget": "$500,000",
+      "status":"60% Winners | 1st $50,000",
+      "progress": 98,
+      "entity": "Multiple Entity",
+      "entityBudget": "$20",
+      "totalSpots": "10,000Spots",
+      "leftSpots": "3875Spots left"
+    },
+    {
+      "id":1,
+      "name": "prize pool",
+      "budget": "$500,000",
+      "status":"60% Winners | 1st $50,000",
+      "progress": 25,
+      "entity": "Multiple Entity",
+      "entityBudget": "$20",
+      "totalSpots": "10,000Spots",
+      "leftSpots": "3875Spots left"
+    },
+    {
+      "id":2,
+      "name": "prize pool",
+      "budget": "$50,000",
+      "status":"60% Winners | 1st $50,000",
+      "progress": 78,
+      "entity": "Multiple Entity",
+      "entityBudget": "$20",
+      "totalSpots": "10,000Spots",
+      "leftSpots": "3875Spots left"
+    },
+    {
+      "id":3,
+      "name": "prize pool",
+      "budget": "$5,100,000",
+      "status":"60% Winners | 1st $50,000",
+      "progress": 24,
+      "entity": "Multiple Entity",
+      "entityBudget": "$20",
+      "totalSpots": "10,000Spots",
+      "leftSpots": "3875Spots left"
+    },
+    {
+      "id":4,
+      "name": "prize pool",
+      "budget": "$5,600,000",
+      "status":"60% Winners | 1st $50,000",
+      "progress": 98,
+      "entity": "Multiple Entity",
+      "entityBudget": "$20",
+      "totalSpots": "10,000Spots",
+      "leftSpots": "3875Spots left"
+    },
+    {
+      "id":5,
+      "name": "prize pool",
+      "budget": "$700,000",
+      "status":"60% Winners | 1st $50,000",
+      "progress": 25,
+      "entity": "Multiple Entity",
+      "entityBudget": "$20",
+      "totalSpots": "10,000Spots",
+      "leftSpots": "3875Spots left"
+    },
+    {
+      "id":6,
+      "name": "prize pool",
+      "budget": "$1,000,000",
+      "status":"60% Winners | 1st $50,000",
+      "progress": 34,
+      "entity": "Multiple Entity",
+      "entityBudget": "$20",
+      "totalSpots": "10,000Spots",
+      "leftSpots": "3875Spots left"
+    }
+  ],
+  "MyContestData" : [
+    {
+      "id":0,
+      "name": "prize pool",
+      "budget": "$500,000",
+      "status":"60% Winners | 1st $50,000",
+      "progress": 80,
+      "entity": "Multiple Entity",
+      "entityBudget": "$20",
+      "totalSpots": "10,000Spots",
+      "leftSpots": "3875Spots left",
+      "joinedteams": [
+        {
+          "id":1,
+          "name": "T1"
+        },
+        {
+          "id":2,
+          "name": "T2"
+        }
+      ]
+    },
+    {
+      "id":0,
+      "name": "prize pool",
+      "budget": "$500,000",
+      "status":"60% Winners | 1st $50,000",
+      "progress": 76,
+      "entity": "Multiple Entity",
+      "entityBudget": "$20",
+      "totalSpots": "10,000Spots",
+      "leftSpots": "3875Spots left",
+      "joinedteams": [
+        {
+          "id":0,
+          "name": "T1"
+        }
+      ]
+    }
+  ]
+}

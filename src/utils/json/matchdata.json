@@ -1,0 +1,206 @@
+{
+"leaderboard" : [
+  {
+    "no": 0,
+    "img": "./images/users/user1.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 1,
+    "img": "./images/users/user2.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 2,
+    "img": "./images/users/user3.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 3,
+    "img": "./images/users/user4.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 4,
+    "img": "./images/users/user5.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 5,
+    "img": "./images/users/user6.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 6,
+    "img": "./images/users/user7.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 7,
+    "img": "./images/users/user8.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 8,
+    "img": "./images/users/user2.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 9,
+    "img": "./images/users/user1.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 10,
+    "img": "./images/users/user3.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  },
+  {
+    "no": 11,
+    "img": "./images/users/user4.png",
+    "name": "Samanthateam123",
+    "team": "T1",
+    "status": "Won $25",
+    "point": 202.25,
+    "rank": 2551
+  }
+],
+"winnings" :[
+  {
+    "rank": "1",
+    "winnings": "50000"
+  },
+  {
+    "rank": "2",
+    "winnings": "25000"
+  },
+  {
+    "rank": "3",
+    "winnings": "10000"
+  },
+  {
+    "rank": "4",
+    "winnings": "5000"
+  },
+  {
+    "rank": "5",
+    "winnings": "2000"
+  },
+  {
+    "rank": "6",
+    "winnings": "1500"
+  },
+  {
+    "rank": "7",
+    "winnings": "1000"
+  },
+  {
+    "rank": "8",
+    "winnings": "500"
+  },
+  {
+    "rank": "9",
+    "winnings": "250"
+  },
+  {
+    "rank": "10-15",
+    "winnings": "100"
+  },
+  {
+    "rank": "16-25",
+    "winnings": "50"
+  },
+  {
+    "rank": "26-50",
+    "winnings": "45"
+  },
+  {
+    "rank": "51-100",
+    "winnings": "40"
+  },
+  {
+    "rank": "101-200",
+    "winnings": "35"
+  },
+  {
+    "rank": "201-500",
+    "winnings": "30"
+  },
+  {
+    "rank": "501-1000",
+    "winnings": "25"
+  },
+  {
+    "rank": "1001-2000",
+    "winnings": "20"
+  },
+  {
+    "rank": "2001-3000",
+    "winnings": "15"
+  },
+  {
+    "rank": "3001-4000",
+    "winnings": "10"
+  },
+  {
+    "rank": "4001-5000",
+    "winnings": "5"
+  },
+  {
+    "rank": "5001-6000",
+    "winnings": "3"
+  },
+  {
+    "rank": "6001-7000",
+    "winnings": "2"
+  },
+  {
+    "rank": "7001-8000",
+    "winnings": "1"
+  }  
+]
+}

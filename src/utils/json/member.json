@@ -1,0 +1,336 @@
+{
+  "myteam" : [
+    {
+      "teamname": "Smanthateam123",
+      "shortname": "T1",
+      "member1": {
+        "img" : "/images/players/player4.png",
+        "name": "P. Williams",
+        "role": "c",
+        "color": "#234567"
+      },
+      "member2": {
+        "img": "/images/players/player2.png",
+        "name": "B. Cordova",
+        "role": "cf",
+        "color": "#fe32a7"
+      },      
+      "wls": 5,
+      "cbr": 6,
+      "gk": 1,
+      "def":4,
+      "mid": 4,
+      "st": 1
+    },
+    {
+      "teamname": "Smanthateam123",
+      "shortname": "T1",
+      "member1": {
+        "img" : "/images/players/player1.png",
+        "name": "P. Williams",
+        "role": "c",
+        "color": "#234567"
+      },
+      "member2": {
+        "img": "/images/players/player2.png",
+        "name": "B. Cordova",
+        "role": "cf",
+        "color": "#254785"
+      },
+      "wls": 5,
+      "cbr": 6,
+      "gk": 1,
+      "def":4,
+      "mid": 4,
+      "st": 1,
+      "color": "#254785"
+    },
+    {
+      "teamname": "Smanthateam123",
+      "shortname": "T1",
+      "member1": {
+        "img" : "/images/players/player4.png",
+        "name": "P. Williams",
+        "role": "p",
+        "color": "#12342d"
+      },
+      "member2": {
+        "img": "/images/players/player5.png",
+        "name": "B. Cordova",
+        "role": "cf",
+        "color": "#fe32a7"
+      },
+      "wls": 5,
+      "cbr": 6,
+      "gk": 1,
+      "def":4,
+      "mid": 4,
+      "st": 1
+    }
+  ],
+  "members" : [
+    {
+      "img": "/images/players/player1.png",
+      "name": "B. Cordova",
+      "role": "cf",
+      "color": "#fe32a7",
+      "score" : "9.0",
+      "price": 165,
+      "sell": 19.20,
+      "club": "CBR",
+      "clubcolor": "rbga(29, 97, 129, 1)",
+      "credit": 50,
+      "active": false,
+      "position": "gk"
+    },
+    {
+      "img": "/images/players/player2.png",
+      "name": "W. Simon",
+      "role": "cf",
+      "color": "#dbdbbb",
+      "score" : "9.0",
+      "price": 378,
+      "sell": 19.20,
+      "club": "CBR",
+      "clubcolor": "rbga(29, 97, 129, 1)",
+      "credit": 78,
+      "active": false,
+      "position": "def"
+    },
+    {
+      "img": "/images/players/player3.png",
+      "name": "E. Kevin",
+      "role": "cf",
+      "color": "#fe32a7",
+      "score" : "9.0",
+      "price": 246,
+      "sell": 19.20,
+      "club": "CBR",
+      "clubcolor": "rbga(29, 97, 129, 1)",
+      "credit": 15,
+      "active": true,
+      "position": "def"
+    },
+    {
+      "img": "/images/players/player4.png",
+      "name": "B. Junior",
+      "role": "cf",
+      "color": "#da345f",
+      "score" : "9.0",
+      "price": 13,
+      "sell": 48.20,
+      "club": "CBR",
+      "clubcolor": "rbga(29, 97, 129, 1)",
+      "credit": 97,
+      "active": true,
+      "position": "def"
+    },
+    {
+      "img": "/images/players/player5.png",
+      "name": "B. Sam",
+      "role": "cf",
+      "color": "#3d4565",
+      "score" : "9.0",
+      "price": 789,
+      "sell": 12.20,
+      "club": "MCG",
+      "clubcolor": "rbga(137, 95, 18, 1)",
+      "credit": 89,
+      "active": false,
+      "position": "lcm"
+    },
+    {
+      "img": "/images/players/player6.png",
+      "name": "B. Erwin",
+      "role": "cf",
+      "color": "#f423da",
+      "score" : "9.0",
+      "price": 234,
+      "sell": 46.20,
+      "club": "CBR",
+      "clubcolor": "rbga(29, 97, 129, 1)",
+      "credit": 34,
+      "active": true,
+      "position": "cm"
+    },
+    {
+      "img": "/images/players/player7.png",
+      "name": "Y. Morgan",
+      "role": "cf",
+      "color": "#dfa345",
+      "score" : "9.0",
+      "price": 123,
+      "sell": 45.20,
+      "club": "MCG",
+      "clubcolor": "rbga(137, 95, 18, 1)",
+      "credit": 24,
+      "active": false,
+      "position": "cm"
+    },
+    {
+      "img": "/images/players/player8.png",
+      "name": "J. Felix",
+      "role": "cf",
+      "color": "#12dfa4",
+      "score" : "9.0",
+      "price": 124,
+      "sell": 45.20,
+      "club": "CBR",
+      "clubcolor": "rbga(29, 97, 129, 1)",
+      "credit": 32,
+      "active": false,
+      "position": "rcm"
+    },
+    {
+      "img": "/images/players/player9.png",
+      "name": "B. Rafael",
+      "role": "cf",
+      "color": "#fe32a7",
+      "score" : "9.0",
+      "price": 456,
+      "sell": 24.20,
+      "club": "CBR",
+      "credit": 45,
+      "active": false,
+      "position": "lwf"
+    },
+    {
+      "img": "/images/players/player10.png",
+      "name": "C. Cordova",
+      "role": "cf",
+      "color": "#a3424",
+      "score" : "9.0",
+      "price": 342,
+      "sell": 35.20,
+      "club": "MCG",
+      "clubcolor": "rbga(137, 95, 18, 1)",
+      "credit": 78,
+      "active": false,
+      "position": "rwf"
+    },
+    {
+      "img": "/images/players/player11.png",
+      "name": "B. Kyle",
+      "role": "cf",
+      "color": "#2342df",
+      "score" : "9.0",
+      "price": 232,
+      "sell": 12.20,
+      "club": "CBR",
+      "clubcolor": "rbga(29, 97, 129, 1)",
+      "credit": 25,
+      "active": true,
+      "position": "cf"
+    }
+    
+  ],
+  "memberhistory" : {
+    "img": "/images/players/player11.png",
+    "name": "B. Kyle",
+    "role": "Fighter",
+    "color": "#2342df",
+    "score" : "9.0",
+    "price": 265,
+    "sell": 12.20,
+    "credit": 53,
+    "active": true,
+    "position": "cf",
+    "club": [
+      {
+        "club": "CBR",
+        "clubcolor": "#345eda",
+        "date": "MAY 29, 2024",
+        "price": 265,
+        "sell": 45.20,
+        "credit": 89
+      },
+      {
+        "club": "MXS",
+        "clubcolor": "#1780fd",
+        "date": "MAY 29, 2024",
+        "price": 265,
+        "sell": 60,
+        "credit": 80
+      },
+      {
+        "club": "PMR",
+        "clubcolor": "#a45cf9",
+        "date": "MAY 29, 2024",
+        "price": 265,
+        "sell": 89,
+        "credit": 80
+      },
+      {
+        "club": "MBC",
+        "clubcolor": "#dc34a2",
+        "date": "MAY 29, 2024",
+        "price": 265,
+        "sell": 23,
+        "credit": 80
+      }
+    ]
+  },
+  "memberinfo": {
+    "img": "/images/players/player5.png",
+    "name": "B. Kyle",
+    "role": "Fighter",
+    "score" : "9.0",
+    "price": 265,
+    "sell": 12.20,
+    "credit": 80,
+    "position": "cf",
+    "events": [
+      {
+        "event": " In playing",
+        "actual": 1,
+        "points": 4.0
+      },
+      {
+        "event": " Subsitute ",
+        "actual": 0,
+        "points": 4.0
+      },
+      {
+        "event": " Goals",
+        "actual": 3,
+        "points": 4.0
+      },
+      {
+        "event": " Assists",
+        "actual": 4,
+        "points": 4.0
+      },
+      {
+        "event": "Shorts on Target",
+        "actual": 2,
+        "points": 4.0
+      },
+      {
+        "event": " Passes Completed",
+        "actual": 6,
+        "points": 4.0
+      },
+      {
+        "event": "Tackle Won",
+        "actual": 1,
+        "points": 4.0
+      },
+      {
+        "event": "Interceptions Won",
+        "actual": 6,
+        "points": 5.0
+      },
+      {
+        "event": "Blocked shots",
+        "actual": 0,
+        "points": 8.0
+      },
+      {
+        "event": "Clearance",
+        "actual": 5,
+        "points": 4.0
+      }
+    ]
+  }
+
+}

@@ -1,0 +1,31 @@
+
+@keyframes slideLeft {
+    from {
+       transform: translateX(100%);
+    }
+    to {
+       transform: translateX(0);
+    }
+   }
+   
+   @keyframes slideRight {
+    from {
+       transform: translateX(-100%);
+    }
+    to {
+       transform: translateX(0);
+    }
+   }
+   
+   .carousel__item {
+    animation-duration: 0.5s;
+    animation-fill-mode: both;
+   }
+   
+   .slideLeft {
+    animation-name: slideLeft;
+   }
+   
+   .slideRight {
+    animation-name: slideRight;
+   }
